@@ -1,6 +1,6 @@
 👋 Hi, I’m Ali
 I'm a tech geek, a competitive programmer and an enthusiastic learner 
-i'm interested in web technologies and currently learning MERN stack, 
+i'm interested in web technologies and currently working on MERN stack, 
 
 Email :
 aliabyernasir2@gmail.com
