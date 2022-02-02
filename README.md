@@ -10,7 +10,7 @@ i'm interested in web technologies.
 - c#
 - bash
 
-i have experience as full stack web developer working with MERN technologies
+i have experience as full stack web developer working with MERN technologies.
 i am also a linux enthusiast so i also know some networking.
 
 Email :
