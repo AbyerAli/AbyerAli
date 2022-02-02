@@ -2,7 +2,7 @@
 I'm a tech geek, a competitive programmer and an enthusiastic learner 
 i'm interested in web technologies.
 
-###### Programming languages that i'm familiar with:
+##### Programming languages that i'm familiar with:
 - c
 - c++
 - python
