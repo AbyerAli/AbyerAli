@@ -18,7 +18,7 @@ Email :
 aliabyernasir2@gmail.com
 
 linkedin:
-Ali Abyer
+[Ali Abyer](https://www.linkedin.com/in/ali-abyer-05410a202/)
 
 <!---
 AbyerAli/AbyerAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
