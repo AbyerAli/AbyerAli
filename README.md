@@ -1,5 +1,5 @@
 👋 Hi, I’m Ali
-I'm a tech geek, a competitive programmer and an enthusiastic learner 
+I'm a tech geek, an aspiring competitive programmer and an enthusiastic learner 
 i'm interested in web technologies.
 In love with any thing related to programming and i love UNIX like operating systems.
 
