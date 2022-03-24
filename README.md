@@ -3,7 +3,7 @@ I'm a tech geek, an aspiring competitive programmer and an enthusiastic learner
 i'm interested in web technologies.
 In love with any thing related to programming and i love UNIX like operating systems.
 
-##### Programming languages that i'm familiar with:
+##### Some of the classics i'm familiar with:
 - c
 - c++
 - python
