@@ -9,10 +9,10 @@ In love with any thing related to programming and i love UNIX like operating sys
 - python
 - javascript
 - c#
-- bash
+- java
 
 i have experience as full stack web developer working with MERN technologies.
-i am also a linux enthusiast so i also know some networking.
+i am also a linux enthusiast so i also know some networking and bash.
 
 Email :
 aliabyernasir2@gmail.com
