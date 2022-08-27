@@ -67,7 +67,7 @@
   
   ### :hammer_and_wrench: Languages and Tools :
   
-  <div align="left">
+<div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="expressjs" alt="expressjs" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -80,16 +80,17 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  </div>
-<br>
-### **PING ME:** 
+</div>
+
+> **PING ME:** 
+
 <div align="left">
     <div id="badges">
         <a href="https://www.linkedin.com/in/ali-abyer-nasir-05410a202/">
-          <img src="https://img.shields.io/badge/Gmail-aliabyernasir2%40gmail.com-lightgrey" alt="gmail Badge"/>
+          <img src="https://img.shields.io/badge/Gmail-aliabyernasir2%40gmail.com-lightgrey" height="30px" alt="gmail Badge"/>
         </a>
         <a href="https://www.linkedin.com/in/ali-abyer-nasir-05410a202/">
-          <img src="https://img.shields.io/badge/Discord-lightgrey?style=for-the-badge&logo=discord" alt="gmail Badge"/>
+          <img src="https://img.shields.io/badge/Discord-Mephistopheles%235545-lightgrey" height="30px" alt="Discord Badge"/>
         </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=AbyerAli&style=flat-square&color=blue" alt=""/>
