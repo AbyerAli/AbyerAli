@@ -11,9 +11,9 @@
 <img src="https://komarev.com/ghpvc/?username=AbyerAli&style=flat-square&color=blue" alt=""/>
 </div>
 <p align="center">
-    <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/5Mys.gif" width="70px" height="90px">
-    &nbsp; &nbsp; &nbsp; &nbsp;
-    <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/LV42.gif" width="70px" height="90px">
+    <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/5Mys.gif" width="70px" height="120px">
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/LV42.gif" width="75px" height="90px">
 </p>
 
 > **ABOUT ME**:
