@@ -10,10 +10,17 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=AbyerAli&style=flat-square&color=blue" alt=""/>
 </div>
-<div>
-  <img style="vertical-align:middle" src="https://github.com/AbyerAli/myContent/blob/main/5Mys.gif">
-  <span style="">Works.</span>
-</div>
+<table>
+    <tr>
+        <td valign="top"><img
+                src="https://github.com/AbyerAli/myContent/blob/main/5Mys.gif" />
+        </td>
+        <td valign="top"><img
+                src="https://github.com/AbyerAli/myContent/blob/main/LV42.gif" />
+        </td>
+    </tr>
+</table>
+
 > **ABOUT ME**:
 
 ```js
