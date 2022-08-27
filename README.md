@@ -81,15 +81,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
-  <br>
-  > **PING ME:**
+<br>
+> **PING ME:** 
 <div align="center">
     <div id="badges">
         <a href="https://www.linkedin.com/in/ali-abyer-nasir-05410a202/">
-          <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=lightgrey" alt="gmail Badge"/>
+          <img src="https://img.shields.io/badge/Gmail-lightgrey?style=for-the-badge&logo=gmail" alt="gmail Badge"/>
         </a>
         <a href="https://www.linkedin.com/in/ali-abyer-nasir-05410a202/">
-          <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=lightgrey" alt="gmail Badge"/>
+          <img src="https://img.shields.io/badge/Discord-lightgrey?style=for-the-badge&logo=discord" alt="gmail Badge"/>
         </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=AbyerAli&style=flat-square&color=blue" alt=""/>
