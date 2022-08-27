@@ -80,6 +80,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
   
+<p align="center">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="80px" height="130px">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="50px" height="50px">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
+</p>
   
   
   <!---
