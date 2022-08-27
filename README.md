@@ -13,10 +13,10 @@
 <table>
     <tr>
         <td valign="top">
-          <img width="30" height="50" src="https://github.com/AbyerAli/myContent/blob/main/5Mys.gif" />
+          <img width="70" height="90" src="https://github.com/AbyerAli/myContent/blob/main/5Mys.gif" />
         </td>
         <td valign="top">
-          <img width="30" height="50" src="https://github.com/AbyerAli/myContent/blob/main/LV42.gif" />
+          <img width="40" height="80" src="https://github.com/AbyerAli/myContent/blob/main/LV42.gif" />
         </td>
     </tr>
 </table>
