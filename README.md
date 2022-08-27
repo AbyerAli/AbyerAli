@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/97e6IX0kayYTK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/feature-97e6IX0kayYTK">via GIPHY</a></p>
+  <img src="https://github.com/AbyerAli/myContent/blob/main/helloWorldAli.png" alt="Names ALI"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/ali-abyer-nasir-05410a202/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
