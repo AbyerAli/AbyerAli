@@ -81,10 +81,7 @@
   </div>
   
 <p align="center">
-  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="80px" height="130px">
-  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif">
-  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="50px" height="50px">
-  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="100%">
 </p>
   
   
