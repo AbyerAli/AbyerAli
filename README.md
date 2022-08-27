@@ -14,6 +14,8 @@
       <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/5Mys.gif" width="80px" height="140px">
 <!--       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -->
       <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/fireBlue.gif" width="60px" height="100px">
+      <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/fireBlue.gif" width="60px" height="100px">
+      <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/fireBlue.gif" width="60px" height="100px">
       <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/LV42.gif" width="80px" height="120px">
   </p>
   
