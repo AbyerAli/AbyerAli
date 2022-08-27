@@ -10,16 +10,11 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=AbyerAli&style=flat-square&color=blue" alt=""/>
 </div>
-<table>
-    <tr>
-        <td valign="top">
-          <img width="70" height="90" src="https://github.com/AbyerAli/myContent/blob/main/5Mys.gif" />
-        </td>
-        <td valign="top">
-          <img width="40" height="80" src="https://github.com/AbyerAli/myContent/blob/main/LV42.gif" />
-        </td>
-    </tr>
-</table>
+<p align="center">
+    <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/5Mys.gif" width="45%">
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/LV42.gif" width="45%">
+</p>
 
 > **ABOUT ME**:
 
