@@ -24,6 +24,9 @@ gaming since the start of the days :)
 
 i have experience as full stack web developer working with MERN technologies.
 i am also a linux enthusiast so i also know some networking and bash.
+
+### :hammer_and_wrench: Languages and Tools :
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
