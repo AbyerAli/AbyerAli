@@ -80,21 +80,17 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <br/>
 </div>
 
 > **PING ME:** 
-
-<div align="left">
-    <div id="badges">
-        <a href="https://www.linkedin.com/in/ali-abyer-nasir-05410a202/">
-          <img src="https://img.shields.io/badge/Gmail-aliabyernasir2%40gmail.com-lightgrey" height="30px" alt="gmail Badge"/>
-        </a>
-        <a href="https://www.linkedin.com/in/ali-abyer-nasir-05410a202/">
-          <img src="https://img.shields.io/badge/Discord-Mephistopheles%235545-lightgrey" height="30px" alt="Discord Badge"/>
-        </a>
-    </div>
-    <img src="https://komarev.com/ghpvc/?username=AbyerAli&style=flat-square&color=blue" alt=""/>
-</div>
+> > <a href="https://www.linkedin.com/in/ali-abyer-nasir-05410a202/">
+    <img src="https://img.shields.io/badge/Gmail-aliabyernasir2%40gmail.com-lightgrey" height="30px" alt="gmail Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/ali-abyer-nasir-05410a202/">
+    <img src="https://img.shields.io/badge/Discord-Mephistopheles%235545-lightgrey" height="30px" alt="Discord Badge"/>
+</a>
+        
   <!---
   AbyerAli/AbyerAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   You can click the Preview link to take a look at your changes.
