@@ -11,6 +11,11 @@
 <img src="https://komarev.com/ghpvc/?username=AbyerAli&style=flat-square&color=blue" alt=""/>
 </div>
 
+```
+var add2 = function(number) {
+  return number + 2;
+}
+```
 
 I'm Ali, a tech geek, an aspiring competitive programmer and an enthusiastic learner 
 i'm interested in web technologies.
