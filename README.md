@@ -82,11 +82,11 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
 <br>
-> **PING ME:** 
-<div align="center">
+### **PING ME:** 
+<div align="left">
     <div id="badges">
         <a href="https://www.linkedin.com/in/ali-abyer-nasir-05410a202/">
-          <img src="https://img.shields.io/badge/Gmail-lightgrey?style=for-the-badge&logo=gmail" alt="gmail Badge"/>
+          <img src="https://img.shields.io/badge/Gmail-aliabyernasir2%40gmail.com-lightgrey" alt="gmail Badge"/>
         </a>
         <a href="https://www.linkedin.com/in/ali-abyer-nasir-05410a202/">
           <img src="https://img.shields.io/badge/Discord-lightgrey?style=for-the-badge&logo=discord" alt="gmail Badge"/>
