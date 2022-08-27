@@ -10,7 +10,10 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=AbyerAli&style=flat-square&color=blue" alt=""/>
 </div>
-
+<div>
+  <img style="vertical-align:middle" src="https://github.com/AbyerAli/myContent/blob/main/5Mys.gif">
+  <span style="">Works.</span>
+</div>
 > **ABOUT ME**:
 
 ```js
@@ -31,7 +34,6 @@ const ali = {
     },
     architecture: ["Static web application", "Single page applications"],
     currentFocus: "learning web technologies",
-    funFact: "some times i have no idea what i am doing with the code"
 };
 ```
 > **MORE ABOUT ME** 💬:
