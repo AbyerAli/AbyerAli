@@ -11,10 +11,28 @@
 <img src="https://komarev.com/ghpvc/?username=AbyerAli&style=flat-square&color=blue" alt=""/>
 </div>
 
+#### A little more about me :)
+
 ```
-var add2 = function(number) {
-  return number + 2;
-}
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "c++", "Java", "c#"],
+    askMeAbout: ["web dev", "tech", "music", "anime"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        frontEnd: {
+            framework: ["React"]
+        },
+        devOps: ["AWS", "Linux🐧", "Route53", "S3Bucket", "SES", "EC2"],
+        databases: ["mongo", "MySql"],
+        misc: ["webScraping", "python", "solidjs", "figma", "chromeExtentions", "GNU linux"]
+    },
+    architecture: ["Static web application", "Single page applications"],
+    currentFocus: "learning web technologies",
+    funFact: "some times i have no idea what i am doing with the code"
+};
 ```
 
 I'm Ali, a tech geek, an aspiring competitive programmer and an enthusiastic learner 
