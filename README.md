@@ -105,9 +105,10 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ## 
-<div>&nbsp;</div>
+<div>
 i have experience as full stack web developer working with MERN technologies.
-i am also a linux enthusiast so i also know some networking and bash.
+i am also a linux enthusiast so i also know some networking and bash.&nbsp;
+</div>
 ## 
 
 ### :hammer_and_wrench: Languages and Tools :
