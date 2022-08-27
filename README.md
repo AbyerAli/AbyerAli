@@ -12,11 +12,11 @@
 </div>
 <table>
     <tr>
-        <td valign="top"><img
-                src="https://github.com/AbyerAli/myContent/blob/main/5Mys.gif" />
+        <td valign="top">
+          <img width="30" height="50" src="https://github.com/AbyerAli/myContent/blob/main/5Mys.gif" />
         </td>
-        <td valign="top"><img
-                src="https://github.com/AbyerAli/myContent/blob/main/LV42.gif" />
+        <td valign="top">
+          <img width="30" height="50" src="https://github.com/AbyerAli/myContent/blob/main/LV42.gif" />
         </td>
     </tr>
 </table>
