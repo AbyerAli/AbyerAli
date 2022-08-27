@@ -83,7 +83,6 @@
   </div>
   <br>
 > Dorothy followed her through many of the beautiful rooms in her castle.
->
 >> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
   <!---
   AbyerAli/AbyerAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
