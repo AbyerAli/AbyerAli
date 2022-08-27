@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=AbyerAli&style=flat-square&color=blue" alt=""/>
 </div>
 
-#### About me:
+> About me:
 
 ```js
 const ali = {
@@ -34,7 +34,7 @@ const ali = {
     funFact: "some times i have no idea what i am doing with the code"
 };
 ```
-## more about ME 💬:
+> More about ME 💬:
 
 #### -Learning
 
@@ -57,8 +57,10 @@ const ali = {
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 </div>
 
+## ---------
 i have experience as full stack web developer working with MERN technologies.
 i am also a linux enthusiast so i also know some networking and bash.
+## ---------
 
 ### :hammer_and_wrench: Languages and Tools :
 
