@@ -81,7 +81,20 @@
   </div>
   
 <p align="center">
-  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="100%" height="80px">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
+    
 </p>
   
   
