@@ -35,8 +35,6 @@ const ali = {
 };
 ```
 > **MORE ABOUT ME** 💬:
-<iframe src='https://gfycat.com/ifr/AcceptableGreedyDutchsmoushond' frameborder='0' scrolling='no' allowfullscreen width='640' height='403'></iframe>
-#### -Learning
 
 - [x] Data Structures & Algorithms
 - [x] Web technologies
