@@ -11,8 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=AbyerAli&style=flat-square&color=blue" alt=""/>
   </div>
   <p align="center">
-      <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/5Mys.gif" width="80px" height="130px">
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/5Mys.gif" width="80px" height="140px">
+<!--       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -->
+      <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/fireBlue.gif" width="60px" height="100px">
       <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/LV42.gif" width="80px" height="120px">
   </p>
   
@@ -79,17 +80,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
-  
-<p align="center">
-  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
-  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
-  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
-  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
-  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
-  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
-  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="140px" height="100px">
-</p>
-  
   
   <!---
   AbyerAli/AbyerAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
