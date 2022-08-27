@@ -81,7 +81,7 @@
   </div>
   
 <p align="center">
-  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="100%">
+  <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/fireBottom.gif" width="100%" height="80px">
 </p>
   
   
