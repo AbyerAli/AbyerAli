@@ -49,7 +49,7 @@ const ali = {
 - Gaming addict
 
 
-##### Some of the classics i'm familiar with:
+#### Some of the classics i'm familiar with:
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
@@ -57,10 +57,10 @@ const ali = {
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 </div>
 
-## ---------
+## 
 i have experience as full stack web developer working with MERN technologies.
 i am also a linux enthusiast so i also know some networking and bash.
-## ---------
+## 
 
 ### :hammer_and_wrench: Languages and Tools :
 
