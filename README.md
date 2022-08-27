@@ -35,7 +35,7 @@ const ali = {
 };
 ```
 > **MORE ABOUT ME** 💬:
-
+<iframe src='https://gfycat.com/ifr/AcceptableGreedyDutchsmoushond' frameborder='0' scrolling='no' allowfullscreen width='640' height='403'></iframe><p> <a href="https://gfycat.com/acceptablegreedydutchsmoushond">via Gfycat</a></p>
 #### -Learning
 
 - Data Structures & Algorithms
@@ -61,7 +61,7 @@ i am also a linux enthusiast so i also know some networking and bash.
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="expressjs" alt="expressjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
