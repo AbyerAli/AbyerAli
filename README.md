@@ -35,12 +35,12 @@ const ali = {
 };
 ```
 > **MORE ABOUT ME** 💬:
-<iframe src='https://gfycat.com/ifr/AcceptableGreedyDutchsmoushond' frameborder='0' scrolling='no' allowfullscreen width='640' height='403'></iframe><p> <a href="https://gfycat.com/acceptablegreedydutchsmoushond">via Gfycat</a></p>
+<iframe src='https://gfycat.com/ifr/AcceptableGreedyDutchsmoushond' frameborder='0' scrolling='no' allowfullscreen width='640' height='403'></iframe>
 #### -Learning
 
-- Data Structures & Algorithms
-- Web technologies
-- UNIX like operating systems
+- [x] Data Structures & Algorithms
+- [x] Web technologies
+- [x] UNIX like operating systems
 
 #### -Hobbies
 
@@ -51,7 +51,7 @@ const ali = {
 
 i have experience as full stack web developer working with MERN technologies.
 i am also a linux enthusiast so i also know some networking and bash.
-#### Some of the classics i'm familiar with:
+### Some of the classics i'm familiar with:
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
