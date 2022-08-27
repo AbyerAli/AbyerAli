@@ -13,8 +13,8 @@
 
 #### About me:
 
-```
-const anmol = {
+```js
+const ali = {
     pronouns: "He" | "Him",
     code: ["Javascript", "c++", "Java", "c#"],
     askMeAbout: ["web dev", "tech", "music", "anime"],
@@ -34,15 +34,15 @@ const anmol = {
     funFact: "some times i have no idea what i am doing with the code"
 };
 ```
-more about ME :speech_balloon :
+more about ME speech_balloon:
 
-##### -Learning
+#### -Learning
 
 - Data Structures & Algorithms
 - Web technologies
 - UNIX like operating systems
 
-##### -Hobbies
+#### -Hobbies
 
 - light novels, webtoons
 - Music
@@ -50,7 +50,7 @@ more about ME :speech_balloon :
 
 
 ##### Some of the classics i'm familiar with:
-<div align="center">
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
