@@ -4,16 +4,12 @@
 </div>
 <p align="center">
     <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/5Mys.gif" width="80px" height="130px">
-    <div id="badges">
-        <a href="https://www.linkedin.com/in/ali-abyer-nasir-05410a202/">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-                alt="LinkedIn Badge" />
-        </a>
-        <a href="https://github.com/AbyerAli">
-            <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"
-                alt="github Badge" />
-        </a>
-    </div>
+    <a href="https://www.linkedin.com/in/ali-abyer-nasir-05410a202/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    <a href="https://github.com/AbyerAli">
+        <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge" />
+    </a>
     <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/LV42.gif" width="80px" height="120px">
 </p>
 
