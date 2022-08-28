@@ -43,13 +43,13 @@
   > ### MORE ABOUT ME 💬:
   
   > > #### ➜ Learning
-  
+  > >
   > > - [x] Data Structures & Algorithms
   > > - [x] Web technologies
   > > - [x] UNIX like operating systems
   
   > > #### ➜ Hobbies
-  
+  > >
   > > - [x] light novels, webtoons
   > > - [x] Music
   > > - [x] Gaming addict
