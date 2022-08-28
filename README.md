@@ -82,13 +82,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <br/>
-
+<hr />
 > **PING ME:** 
-> 
-<a href="https://www.linkedin.com/in/ali-abyer-nasir-05410a202/">
+
+<a href="https://i.pinimg.com/564x/2a/d6/60/2ad660d32ef1eca82bccc67e1ed9d37b.jpg">
     <img src="https://img.shields.io/badge/Gmail-aliabyernasir2%40gmail.com-lightgrey" height="30px" alt="gmail Badge"/>
 </a>
-<a href="https://www.linkedin.com/in/ali-abyer-nasir-05410a202/">
+<a href="https://i.pinimg.com/564x/2a/d6/60/2ad660d32ef1eca82bccc67e1ed9d37b.jpg">
     <img src="https://img.shields.io/badge/Discord-Mephistopheles%235545-lightgrey" height="30px" alt="Discord Badge"/>
 </a>
         
