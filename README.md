@@ -15,7 +15,7 @@
       <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/fireBlue.gif" width="60px" height="100px">
       <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/fireBlue.gif" width="60px" height="130px">
       <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/fireBlue.gif" width="60px" height="100px">
-      <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/LV42.gif" width="80px" height="120px">    
+      <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/LV42.gif" width="85px" height="120px">    
   </p>
   
   > ### ABOUT ME:
