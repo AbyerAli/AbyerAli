@@ -84,7 +84,7 @@
 
 <hr />
 
-> **#PING ME:** 
+> ## PING ME 
 
 <a href="https://i.pinimg.com/564x/2a/d6/60/2ad660d32ef1eca82bccc67e1ed9d37b.jpg">
     <img src="https://img.shields.io/badge/Gmail-aliabyernasir2%40gmail.com-lightgrey" height="30px" alt="gmail Badge"/>
