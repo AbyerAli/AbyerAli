@@ -42,13 +42,13 @@
   ```
   > ### MORE ABOUT ME 💬:
   
-  #### -> Learning
+  #### ➜ Learning
   
   - [x] Data Structures & Algorithms
   - [x] Web technologies
   - [x] UNIX like operating systems
   
-  #### -> Hobbies
+  #### ➜ Hobbies
   
   - [x] light novels, webtoons
   - [x] Music
