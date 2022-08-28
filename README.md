@@ -42,17 +42,17 @@
   ```
   > ### MORE ABOUT ME 💬:
   
-  #### ➜ Learning
+  > #### ➜ Learning
   
-  - [x] Data Structures & Algorithms
-  - [x] Web technologies
-  - [x] UNIX like operating systems
+  > - [x] Data Structures & Algorithms
+  > - [x] Web technologies
+  > - [x] UNIX like operating systems
   
-  #### ➜ Hobbies
+  > #### ➜ Hobbies
   
-  - [x] light novels, webtoons
-  - [x] Music
-  - [x] Gaming addict
+  > - [x] light novels, webtoons
+  > - [x] Music
+  > - [x] Gaming addict
   
   
   i have experience as full stack web developer working with MERN technologies.
