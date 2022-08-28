@@ -18,7 +18,7 @@
       <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/LV42.gif" width="80px" height="120px">    
   </p>
   
-  > **ABOUT ME**:
+  > ### ABOUT ME:
   
   ```js
   const ali = {
@@ -40,15 +40,15 @@
       currentFocus: "learning web technologies",
   };
   ```
-  > **MORE ABOUT ME** 💬:
+  > ### MORE ABOUT ME 💬:
   
-  #### -Learning
+  #### -> Learning
   
   - [x] Data Structures & Algorithms
   - [x] Web technologies
   - [x] UNIX like operating systems
   
-  #### -Hobbies
+  #### -> Hobbies
   
   - [x] light novels, webtoons
   - [x] Music
@@ -65,7 +65,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   </div> 
   
-  ### :hammer_and_wrench: Languages and Tools :
+  ### :hammer_and_wrench: Other languages and Tools :
   
 <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
