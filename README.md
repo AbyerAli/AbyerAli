@@ -54,6 +54,7 @@
   > > - [x] Music
   > > - [x] Gaming addict
   
+<hr />
   
   i have experience as full stack web developer working with MERN technologies.
   i am also a linux enthusiast so i also know some networking and bash.
