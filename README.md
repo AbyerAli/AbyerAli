@@ -41,15 +41,15 @@
   > 
   > #### ➜ Learning
   > >
-  > > - ➜ Data Structures & Algorithms
-  > > - ➜ Web technologies
-  > > - ➜ UNIX like operating systems
+  > > ➜ Data Structures & Algorithms
+  > > ➜ Web technologies
+  > > ➜ UNIX like operating systems
   > 
   > #### ➜ Hobbies
   > >
-  > > - ➜ light novels, webtoons
-  > > - ➜ Music
-  > > - ➜ Gaming addict
+  > > ➜ light novels, webtoons
+  > > ➜ Music
+  > > ➜ Gaming addict
   
 <hr />
   
