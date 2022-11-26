@@ -20,7 +20,6 @@
   
   ```js
   const ali = {
-      pronouns: "He" | "Him",
       code: ["Javascript", "c++", "Java", "c#"],
       askMeAbout: ["web dev", "tech", "music", "anime"],
       technologies: {
@@ -30,7 +29,7 @@
           frontEnd: {
               framework: ["React"]
           },
-          devOps: ["AWS", "Linux🐧", "Route53", "S3Bucket", "SES", "EC2"],
+          devOps: ["AWS", "digitalocean", "spaces", "Linux🐧", "droplets", "S3Bucket", "SES", "EC2"],
           databases: ["mongo", "MySql"],
           misc: ["webScraping", "python", "solidjs", "figma", "chromeExtentions", "GNU linux"]
       },
@@ -42,15 +41,15 @@
   > 
   > #### ➜ Learning
   > >
-  > > - [x] Data Structures & Algorithms
-  > > - [x] Web technologies
-  > > - [x] UNIX like operating systems
+  > > - ➜ Data Structures & Algorithms
+  > > - ➜ Web technologies
+  > > - ➜ UNIX like operating systems
   > 
   > #### ➜ Hobbies
   > >
-  > > - [x] light novels, webtoons
-  > > - [x] Music
-  > > - [x] Gaming addict
+  > > - ➜ light novels, webtoons
+  > > - ➜ Music
+  > > - ➜ Gaming addict
   
 <hr />
   
