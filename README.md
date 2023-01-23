@@ -7,6 +7,7 @@
     <a href="https://github.com/AbyerAli">
       <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
     </a>
+    [![committers.top badge](https://user-badge.committers.top/pakistan/AbyerAli.svg)](https://user-badge.committers.top/pakistan/AbyerAli)
   </div>
   <img src="https://komarev.com/ghpvc/?username=AbyerAli&style=flat-square&color=blue" alt=""/>
   </div>
