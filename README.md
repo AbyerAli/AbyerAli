@@ -20,11 +20,11 @@ I may not be able to configure a network with my eyes closed just yet, but i'm d
   
   ```js
   const ali = {
-      code: ["Javascript", "c++", "Java", "c#"],
-      askMeAbout: ["web dev", "tech", "music", "2D dreams with 3D screams"],
+      code: ["Javascript", "c++", "Java", "c#", "Gibberish"],
+      askMeAbout: ["web dev", "tech", "daydreaming about code", "2D dreams with 3D screams"],
       technologies: {
           backEnd: {
-              js: ["Node", "Express"],
+              js: ["Node (that talks back)", "Express"],
           },
           frontEnd: {
               framework: ["React"]
@@ -34,7 +34,7 @@ I may not be able to configure a network with my eyes closed just yet, but i'm d
           misc: ["webScraping", "python", "solidjs", "figma", "chromeExtentions", "GNU linux"]
       },
       architecture: ["Static web application", "Single page applications"],
-      currentFocus: "learning web technologies",
+      currentFocus: "learning how to write code with my eyes closed",
   };
   ```
 <!--   > ### MORE ABOUT ME 💬:
