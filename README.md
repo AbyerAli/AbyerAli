@@ -10,8 +10,12 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=AbyerAli&style=flat-square&color=blue" alt=""/>
   </div>
+> ### ABOUT ME:
+
+With the power of CS coursing through my veins i am able to do full stack development using MERN technologies.
+I may not be able to configure a network with my eyes closed just yet, but i'm definitely on my way to becoming a bash master. When i'm not busy googling Linux commands, you can find me daydreaming about the perfect terminal setup (who needs a desktop environment, anyway?).
   
-  > ### ABOUT ME:
+  > ### MORE ABOUT ME:
   
   ```js
   const ali = {
@@ -48,8 +52,6 @@
    -->
 <hr />
   
-  With the power of CS coursing through my veins i am able to do full stack development using MERN technologies.
-  I may not be able to configure a network with my eyes closed just yet, but i'm definitely on my way to becoming a bash master. When i'm not busy googling Linux commands, you can find me daydreaming about the perfect terminal setup (who needs a desktop environment, anyway?).
   ### Some of the classics i'm familiar with:
   <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
