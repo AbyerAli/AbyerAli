@@ -81,7 +81,7 @@ I may not be able to configure a network with my eyes closed just yet, but i'm d
 <hr />
 
 > ### PING ME 
-> **If you want to reach out to me about anything, be it to hangout and talk or want to game together just ping me.**
+> **So, if you're ever in need of some web dev wizardry, or just want to geek out over tech, feel free to hit me up! **
 
 <a href="https://i.pinimg.com/564x/2a/d6/60/2ad660d32ef1eca82bccc67e1ed9d37b.jpg">
     <img src="https://img.shields.io/badge/Gmail-aliabyernasir2%40gmail.com-lightgrey" height="30px" alt="gmail Badge"/>
