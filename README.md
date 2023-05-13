@@ -16,7 +16,7 @@
   ```js
   const ali = {
       code: ["Javascript", "c++", "Java", "c#"],
-      askMeAbout: ["web dev", "tech", "music", "anime"],
+      askMeAbout: ["web dev", "tech", "music", "2D dreams with 3D screams"],
       technologies: {
           backEnd: {
               js: ["Node", "Express"],
@@ -32,7 +32,7 @@
       currentFocus: "learning web technologies",
   };
   ```
-  > ### MORE ABOUT ME 💬:
+<!--   > ### MORE ABOUT ME 💬:
   > 
   > #### ➜ Learning
   > >
@@ -45,11 +45,11 @@
   > > - light novels, webtoons
   > > - Music
   > > - Gaming addict
-  
+   -->
 <hr />
   
-  i have experience as full stack web developer working with MERN technologies.
-  i am also a linux enthusiast so i also know some networking and bash.
+  With the power of CS coursing through my veins i am able to do full stack development using MERN technologies.
+  I may not be able to configure a network with my eyes closed just yet, but i'm definitely on my way to becoming a bash master. When i'm not busy googling Linux commands, you can find me daydreaming about the perfect terminal setup (who needs a desktop environment, anyway?).
   ### Some of the classics i'm familiar with:
   <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
