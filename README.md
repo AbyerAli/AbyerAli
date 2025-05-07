@@ -13,7 +13,7 @@
   
   > ### ABOUT ME:
 
-With the power of CS coursing through my veins i am able to do full stack development using MERN technologies.
+Thanks to the my CS background (and a lot of Stack Overflow) i can whip up full-stack MERN projects.
 I may not be able to configure a network with my eyes closed just yet, but i'm definitely on my way to becoming a bash master. When i'm not busy googling Linux commands, you can find me daydreaming about the perfect terminal setup (who needs a desktop environment, anyway?).
   
   > ### MORE ABOUT ME:
